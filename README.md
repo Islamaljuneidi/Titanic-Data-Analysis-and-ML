@@ -1,0 +1,2 @@
+# Titanic-Data-Analysis-and-ML
+I have two similar datasets that include passenger information such as name, age, gender, socioeconomic class, etc. One data set is titled "train.csv" and the other is titled "test.csv".Train.csv will contain details of a subset of the passengers on board (891 to be exact) and most importantly, it will reveal whether or not they survived, also known as the "ground truth".The dataset "test.csv" contains similar information but does not reveal the "ground truth" for every passenger.
